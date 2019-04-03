@@ -32,6 +32,7 @@ export const categories = {
 export const education = {
   1: {
     name: 'ITMO University',
+    speciality: 'Department of Information Systems and Technologies in High-Tech Business, Professional education (IT Design)',
     dateStart: new Date(2006, 8, 1),
     dateEnd: new Date(2015, 6, 6)
   }

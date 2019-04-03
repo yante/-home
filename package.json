@@ -1,0 +1,27 @@
+{
+  "name": "homepage",
+  "version": "0.0.1",
+  "description": "Yan Te homepage",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yante/-home.git"
+  },
+  "author": "Yan Te <jante@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yante/-home/issues"
+  },
+  "homepage": "https://github.com/yante/-home#readme",
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
