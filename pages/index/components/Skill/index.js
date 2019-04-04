@@ -1,6 +1,8 @@
 import React from "react";
+import { skills } from "../../../../src/data";
 
-export default function Skill(skill) {
+export default function Skill({ id }) {
+  const skill = skills[id];
   return (
     <div className="skill">
       <style jsx>{`

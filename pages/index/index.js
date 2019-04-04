@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../../layouts/main";
+import Layout from "layouts/main";
 import Skills from "./components/Skills";
 
 function Home() {
